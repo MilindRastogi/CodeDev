@@ -1,0 +1,90 @@
+body{
+    background-color: tomato;
+    color : white;
+}
+header{
+    height: 65px;
+    width: 100%;
+    background-color: rgba(34, 49, 52, 0.9);
+}
+.logo{
+    font-size: 30px;
+    float: left;
+}
+.logoim{
+    width :100px;
+    height : 68px;
+}
+.signup{
+    float: left;
+}
+.head-right{
+    float: right;
+    background-color: rgba(255, 255, 255, 0.3);
+    transition : all 0.5s;
+}
+.head-right:hover {
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+.head-right a{
+    line-height : 65px;
+    padding-left: 25px;
+    padding-right : 25px;
+    color : white;
+  }
+.wdi{
+    border-radius: 70px;
+    width : 350px;
+    height : 200px;
+    margin-top : 40px;   
+}
+
+.mli{
+    border-radius: 70px;
+    width : 350px;
+    height : 200px;
+    margin-top : 40px;
+}
+.adi{
+    border-radius: 70px;
+    width : 350px;
+    height : 200px;
+    margin-top : 40px;
+}
+.cbi{
+    border-radius: 70px;
+    width : 350px;
+    height : 200px;
+    margin-top : 40px;
+}
+.webdev{
+    float:right
+}
+.webdev p{
+    text-align: center;
+    font-size : 16px;   
+}
+.app{
+    float : right;
+}
+.app p{
+    text-align: center;
+    font-size : 16px; 
+    color : white;
+}
+.ml p{
+    padding-left : 100px;
+    font-size : 16px; 
+    color : white;
+}
+.cybersec p{
+    font-size : 16px; 
+    color : white;
+    padding-left : 100px;
+}
+a:link {
+    text-decoration: none;
+  }
+  .mid h1{
+      text-align : center;
+  }
